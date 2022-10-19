@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello0o0o0 world!");
 
         System.out.println("Go0o0o0dbye world!");
-        System.out.println("Go0o0o0dbye world2!");
+        System.out.println("Go0o0o0dbye world3!");
        
     }
 
